@@ -16,5 +16,10 @@ null,
 {"id":14,"expanded":false,"name":"R102","order":14,"parentId":4,"scrollX":497,"scrollY":321.5},
 {"id":15,"expanded":true,"name":"SERPENT_MSCLE","order":15,"parentId":1,"scrollX":497,"scrollY":321.5},
 {"id":16,"expanded":false,"name":"MMMMMMHMANOIR","order":16,"parentId":15,"scrollX":497,"scrollY":321.5},
-{"id":17,"expanded":false,"name":"MAP017","order":17,"parentId":15,"scrollX":505,"scrollY":302.5}
+{"id":17,"expanded":false,"name":"SEXY_INTERLDE","order":17,"parentId":15,"scrollX":505,"scrollY":302.5},
+{"id":18,"expanded":false,"name":"R201","order":18,"parentId":15,"scrollX":832,"scrollY":640},
+{"id":19,"expanded":true,"name":"CHEZ HIZZY-SAN","order":19,"parentId":1,"scrollX":497,"scrollY":321.5},
+{"id":20,"expanded":true,"name":"INT_CHEZ HIZZY-SAN","order":20,"parentId":19,"scrollX":505,"scrollY":302.5},
+{"id":21,"expanded":false,"name":"INT_G_CHEZ HIZZY-SAN","order":21,"parentId":19,"scrollX":505,"scrollY":302.5},
+{"id":22,"expanded":false,"name":"INT_D_CHEZ HIZZY-SAN","order":22,"parentId":19,"scrollX":505,"scrollY":302.5}
 ]
